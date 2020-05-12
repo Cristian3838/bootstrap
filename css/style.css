@@ -1,0 +1,65 @@
+.navbar {
+    background-color: #E74C3C;
+}
+
+.quem-somos {
+    background-color: #A9CCE3;
+    color: white
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: oblique;
+}
+
+.nossa {
+    padding-top: 2px;
+    padding-top: 2px;
+    font-style: oblique;
+}
+
+.quem {
+    color: white;
+}
+
+.servi {
+    color: white;
+}
+
+.cont {
+    color: white;
+}
+
+.serviços {
+    background-color: white;
+}
+
+.info {
+    font-style: oblique;
+    color: white
+}
+
+.contato {
+    background-color: #E74C3C;
+}
+
+.entre {
+    color: white;
+}
+
+.inter {
+    color: white
+}
+
+.whats {
+    color: white
+}
+
+.email {
+    color: white
+}
+
+.app {
+    color: blue
+}
